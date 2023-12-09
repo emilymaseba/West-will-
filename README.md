@@ -14,7 +14,10 @@ This project underscores the pivotal role of user feedback and data-driven metho
 
 [Final Presentation Recording](https://www.youtube.com/watch?v=SRjrA7nebfI)
 
-For a brief abstract defining the project's focus and a detailed plan for tasks, schedules, and research methods, see [Assignment 3](https://docs.google.com/document/d/1KpNO-Sl7ongckrTfC6aXAZZKpEgP3U-zsSolIuhYut8/edit?usp=drive_link)
+For a brief abstract defining the project's focus and a detailed plan for tasks, schedules, and research methods, see [Assignment 3](https://docs.google.com/document/d/1KpNO-Sl7ongckrTfC6aXAZZKpEgP3U-zsSolIuhYut8/edit?usp=drive_link).
+
 For an exploration of the project's domain through literature and fieldwork, insights collected from interviews, see [Assignment 4](https://docs.google.com/document/d/1Aj6n6RWxevkUQTXIM9ff89zK-_Nkmp9CUV3CroMoJMs/edit?usp=sharing).
+
 For design concepts and prototypes based on research, usability testing plans, and updated project documentation, see [Assignment 5](https://docs.google.com/document/d/1r4g1vOYtBiFO-BcmvvUnpufEzlGKrFXiCImbzfvUdYc/edit?usp=drive_link).
+
 For usability tests with users, feedback gathered, and revised designs, see [Assignment 6](https://docs.google.com/document/d/1xT5buGdC63l1c_etsRqwZi85759-pfm8RC59AZ0m0Xw/edit?usp=drive_link).
