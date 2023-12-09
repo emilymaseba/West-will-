@@ -13,6 +13,7 @@ For an exploration of the project's domain through literature and fieldwork and 
 For design concepts and prototypes based on research, usability testing plans, and updated project documentation, see [Assignment 5](https://docs.google.com/document/d/1r4g1vOYtBiFO-BcmvvUnpufEzlGKrFXiCImbzfvUdYc/edit?usp=drive_link).
 
 For usability tests with users, feedback gathered, and revised designs, see [Assignment 6](https://docs.google.com/document/d/1xT5buGdC63l1c_etsRqwZi85759-pfm8RC59AZ0m0Xw/edit?usp=drive_link).
+
 [Usability Testing Recordings](https://drive.google.com/drive/folders/1EwowEKhsuwmZnZxI2jeO5UPWY6S2mqQu?usp=drive_link)
 
 [Final Report](https://docs.google.com/document/d/1AZlBx5MVHEwh0De9HpMMAe1viNKf5H6bzM5-oqPxubA/edit?usp=sharing)
