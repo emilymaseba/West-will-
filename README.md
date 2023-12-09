@@ -18,6 +18,6 @@ For usability tests with users, feedback gathered, and revised designs, see [Ass
 
 [Final Report](https://docs.google.com/document/d/1AZlBx5MVHEwh0De9HpMMAe1viNKf5H6bzM5-oqPxubA/edit?usp=sharing)
 
-[Final Presentation](https://docs.google.com/presentation/d/1yL_m9AQShgDRnd-ZcKpx9TsuE3bpcRlkX_3XKpZzwCg/edit?usp=sharing)    
+[Final Presentation](https://drive.google.com/file/d/1kgqud_DVnXjw1544pQjPY84Sw3AIp8gJ/view?usp=sharing)    
 
 [Final Presentation Recording](https://www.youtube.com/watch?v=SRjrA7nebfI)
