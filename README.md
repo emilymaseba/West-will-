@@ -1,4 +1,4 @@
-# West-will-
+# West-will-'s UC Pool
 
 This project delves into the development process of UC Pool, an innovative carpooling app designed to address transportation challenges among UCLA students. The project's progression is delineated through phases encompassing initial research and literature review, structured interviews, low-fidelity and high-fidelity designs, iterative improvements driven by user feedback, and extensive usability testing.
 
